@@ -1,0 +1,63 @@
+.ion_description {
+	width: 500px;
+	height: 200px
+}
+
+.overview-id th {
+	width: 25px;
+}
+
+#project {
+	width: 500px
+}
+
+.day {
+	width: 40px
+}
+
+.year {
+	width: 80px
+}
+
+.progressbar {
+	height: 10px;
+	width: 99%;
+	float: left
+}
+
+.yui-grid {
+	font-family: verdana;
+	border: solid 1px #7f7f7f
+}
+
+.yui-grid .hdr TH {
+	background: url(images/sprite.png) repeat-x 0px 0px;
+	border-color: #989898 #cbcbcb #989898 #989898;
+	border-style: none solid solid none;
+	border-width: 1px 1px 1px medium;
+	color: #000;
+	padding: 4px 5px 4px 10px;
+	text-align: center;
+	vertical-align: bottom
+}
+
+.yui-grid TD {
+	padding: 4px 10px 4px 10px;
+	border-right: solid 1px #cbcbcb;
+}
+
+.yui-grid .altrow TD {
+	background-color: #edf5ff
+}
+
+.yui-grid .row TD {
+	background-color: #fff
+}
+
+
+
+.wp-trac-indent{
+	text-indent: 15px;
+}
+
+}
